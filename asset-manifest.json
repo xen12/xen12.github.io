@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43570aa6.css",
+    "main.js": "/static/js/main.6875e0d4.js",
+    "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "index.html": "/index.html",
+    "main.43570aa6.css.map": "/static/css/main.43570aa6.css.map",
+    "main.6875e0d4.js.map": "/static/js/main.6875e0d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43570aa6.css",
+    "static/js/main.6875e0d4.js"
+  ]
+}
